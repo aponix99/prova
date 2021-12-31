@@ -12,8 +12,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-Library/SourceAssetDB
-Library/SceneVisibilityState
+Game Project/Library/SourceAssetDB
+Game Projecgt/Library/SceneVisibilityState
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
