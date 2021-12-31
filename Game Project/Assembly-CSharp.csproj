@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FADE6896-39B5-E00A-CB0B-59DF97FBCA52}</ProjectGuid>
+    <ProjectGuid>{D82FDF64-27D7-DCEC-8BEB-0B2DB3B0E90A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,14 +53,14 @@
     <UnityVersion>2020.3.25f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" />
-    <Compile Include="Assets/Joystick Pack/Scripts/Base/Joystick.cs" />
-    <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" />
-    <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" />
-    <Compile Include="Assets/Joystick Pack/Examples/JoystickSetterExample.cs" />
     <Compile Include="Assets/Character2dController.cs" />
+    <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" />
     <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" />
+    <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" />
+    <Compile Include="Assets/Joystick Pack/Scripts/Base/Joystick.cs" />
     <Compile Include="Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" />
+    <Compile Include="Assets/Joystick Pack/Examples/JoystickSetterExample.cs" />
+    <Compile Include="Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CFF6EE35-07A0-E3D6-F44A-40C21691490D}</ProjectGuid>
+    <ProjectGuid>{8ACC0C92-BDD2-A0E4-B8A0-082FF2452E59}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -53,10 +53,10 @@
     <UnityVersion>2020.3.25f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs" />
     <Compile Include="Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs" />
     <Compile Include="Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs" />
     <Compile Include="Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs" />
+    <Compile Include="Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -764,7 +764,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{FADE6896-39B5-E00A-CB0B-59DF97FBCA52}</Project>
+      <Project>{D82FDF64-27D7-DCEC-8BEB-0B2DB3B0E90A}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
