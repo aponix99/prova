@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-*.csproj
+
 *.exec
 *.asset
 *.json
@@ -13,6 +13,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Ll]ibrary/
 Game Project/Library/SourceAssetDB
 Game Projecgt/Library/SceneVisibilityState
 
