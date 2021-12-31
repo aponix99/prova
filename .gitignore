@@ -73,3 +73,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
+*.asset
+Game Project/Library/ArtifactDB
+Game Project/Library/ArtifactDB-lock
+*.json
+Game Project/Library/PackageCache/com.unity.collab-proxy@1.15.4/.signature
+Game Project/Library/SourceAssetDB-lock
+Game Project/Library/SourceAssetDB
+*.asset
+*.md5
+Game Project/Library/PackageManager/ProjectCache
+Game Project/Library/PackageCache/com.unity.collab-proxy@1.15.4/.signature
+*.json
